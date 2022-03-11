@@ -8,6 +8,7 @@ namespace Project01_Nhom2
         {
             Console.WriteLine("Hello My Name Is Nguyen Quoc Tien!");
             Console.WriteLine("Hello my name is Tran Manh Tung");
+            Console.WriteLine("Hello my name is Nguyen Kha Quoc Bao");
         }
     }
 }
